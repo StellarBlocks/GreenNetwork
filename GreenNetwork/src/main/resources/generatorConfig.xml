@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE generatorConfiguration PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN" "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+
+<generatorConfiguration>
+   <classPathEntry location="E:\Maven\m2\repository\mysql\mysql-connector-java\6.0.5\mysql-connector-java-6.0.5.jar"/>
+  <context id="context1">
+    <jdbcConnection 
+    	connectionURL="jdbc:mysql://127.0.0.1:3306/gnet?useSSL=false&amp;serverTimezone=GMT" 
+    	driverClass="com.mysql.cj.jdbc.Driver" 
+    	password="gnet606608" 
+    	userId="Gnet"/>
+    <javaModelGenerator 
+    	targetPackage="com.greennetwork.model" 
+    	targetProject="GreenNetwork/src/main/java" />
+    <sqlMapGenerator 
+    	targetPackage="com.greennetwork.mapper" 
+    	targetProject="GreenNetwork/src/main/java" />
+    <javaClientGenerator 
+    	targetPackage="com.greennetwork.dao" 
+    	targetProject="GreenNetwork/src/main/java" type="XMLMAPPER" />
+    <table 
+    	schema="gnet" 
+    	tableName="User"
+    	domainObjectName="User">
+    </table>
+  </context>
+</generatorConfiguration>
