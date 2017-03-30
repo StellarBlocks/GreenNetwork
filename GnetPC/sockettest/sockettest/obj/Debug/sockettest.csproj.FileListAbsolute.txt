@@ -1,0 +1,5 @@
+D:\OneDrive\Documents\Visual Studio 2015\Projects\sockettest\sockettest\bin\Debug\sockettest.exe
+D:\OneDrive\Documents\Visual Studio 2015\Projects\sockettest\sockettest\bin\Debug\sockettest.pdb
+D:\OneDrive\Documents\Visual Studio 2015\Projects\sockettest\sockettest\obj\Debug\sockettest.csprojResolveAssemblyReference.cache
+D:\OneDrive\Documents\Visual Studio 2015\Projects\sockettest\sockettest\obj\Debug\sockettest.exe
+D:\OneDrive\Documents\Visual Studio 2015\Projects\sockettest\sockettest\obj\Debug\sockettest.pdb

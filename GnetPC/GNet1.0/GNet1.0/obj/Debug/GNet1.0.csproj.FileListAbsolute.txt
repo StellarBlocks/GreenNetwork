@@ -1,0 +1,11 @@
+d:\OneDrive\documents\visual studio 2015\Projects\GNet1.0\GNet1.0\bin\Debug\GNet1.0.exe
+d:\OneDrive\documents\visual studio 2015\Projects\GNet1.0\GNet1.0\bin\Debug\GNet1.0.pdb
+d:\OneDrive\documents\visual studio 2015\Projects\GNet1.0\GNet1.0\obj\Debug\GNet1.0.csprojResolveAssemblyReference.cache
+d:\OneDrive\documents\visual studio 2015\Projects\GNet1.0\GNet1.0\obj\Debug\GNet1._0.Form1.resources
+d:\OneDrive\documents\visual studio 2015\Projects\GNet1.0\GNet1.0\obj\Debug\GNet1._0.Properties.Resources.resources
+d:\OneDrive\documents\visual studio 2015\Projects\GNet1.0\GNet1.0\obj\Debug\GNet1.0.csproj.GenerateResource.Cache
+d:\OneDrive\documents\visual studio 2015\Projects\GNet1.0\GNet1.0\obj\Debug\GNet1.0.exe
+d:\OneDrive\documents\visual studio 2015\Projects\GNet1.0\GNet1.0\obj\Debug\GNet1.0.pdb
+d:\OneDrive\documents\visual studio 2015\Projects\GNet1.0\GNet1.0\obj\Debug\GNet1._0.UserControl1.resources
+D:\OneDrive\Documents\Visual Studio 2015\Projects\GNet1.0\GNet1.0\obj\Debug\GNet1._0.SocClient.resources
+D:\OneDrive\Documents\Visual Studio 2015\Projects\GNet1.0\GNet1.0\obj\Debug\GNet1._0.SocServer.resources
