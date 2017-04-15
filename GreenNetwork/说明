@@ -1,0 +1,5 @@
+#### Web端设计
+
+Web端采用Spring+SpringMVC+Mybatis+Bootstrap开发，实现的功能主要有以下几点：
+1.用户的登录、注册
+2.用户对关联PC网络访问的监控管理
