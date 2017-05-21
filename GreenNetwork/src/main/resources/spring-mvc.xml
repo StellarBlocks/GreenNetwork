@@ -16,9 +16,11 @@
     
     <!-- 指明路径下的静态资源单独处理而不经过DispacherServlet -->
 	<mvc:annotation-driven/>
-	<mvc:resources location="/css/" mapping="/css/*"></mvc:resources>
-	<mvc:resources location="/js/" mapping="/js/*"></mvc:resources>
-	<mvc:resources location="/fonts/" mapping="/fonts/*"></mvc:resources> 
+	<mvc:resources location="/css/" mapping="/css/**"></mvc:resources>
+	<mvc:resources location="/js/" mapping="/js/**"></mvc:resources>
+	<mvc:resources location="/jquery/" mapping="/jquery/**"></mvc:resources>
+	<mvc:resources location="/bootstrap/" mapping="/bootstrap/**"></mvc:resources>
+	<mvc:resources location="/jasmine/" mapping="/jasmine/**"></mvc:resources>
     <!-- 启动SpringMVC的注解功能，完成请求和注解POJO的映射 
     <bean  
         class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter">  
